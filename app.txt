@@ -5,3 +5,4 @@ conflic line from main
 Conflicted line
 
 for rebase in really main not feature-d
+for rebase in main
