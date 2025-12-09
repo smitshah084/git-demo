@@ -1,2 +1,3 @@
 version 1
 conflic line from main
+Conflicted line
