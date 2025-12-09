@@ -1,3 +1,5 @@
 version 1
+feature A work
+feature B work
 conflic line from main
 Conflicted line
